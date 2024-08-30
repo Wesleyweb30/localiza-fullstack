@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LocalizaApplication<localiza>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "api.localiza.LocalizaApplication",
+            "projectName": "localiza",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
